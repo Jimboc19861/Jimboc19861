@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James. I'm currently a second year BSc Computing student at Birkbeck University of London.
+- 👋 Hi, I’m James. I'm currently a BSc Information Systems and Management student at Birkbeck University of London.
 - 👀 I’m interested in all things computing but mainly in web and app development development, software engineering and systems analysis.
 - 🌱 I’m currently learning Java, JavaScript, Software Engineering, Systems Analysis and Design and Data Structures. In my third and fourth years
       I will be specialising my studies into mobile and web application development and systems design. 
